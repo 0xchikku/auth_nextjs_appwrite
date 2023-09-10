@@ -48,5 +48,5 @@ To get started with this authentication system, follow these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/0xchikku/auth_nextjs_appwrite
+git clone https://github.com/0xchikku/auth_nextjs_appwrite.git
 ```
