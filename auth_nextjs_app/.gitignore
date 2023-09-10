@@ -36,3 +36,11 @@ next-env.d.ts
 
 # vscode
 *.vscode
+.vscode/
+../.vscode/
+
+# Ignore user-specific VSCode settings
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
